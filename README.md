@@ -3,7 +3,7 @@
 Excitation-emission matrix (EEM) fluorescence spectroscopy is widely employed for characterizing complex samples in food analysis and environmental monitoring. However, its practical utility is hindered by an inherent trade-off: high-resolution EEM collection is time-consuming, while rapid low-resolution measurements sacrifice critical spectral details. Herein, we introduce SuperEEM, an EEM-specific super-resolution framework that combines a modified U-Net–GAN architecture with residual learning, channel attention, and a quantitative-fidelity-oriented hybrid loss to recover high-resolution spectral features while preserving fluorescence-intensity consistency and excitation-emission relationships.
 
 -------------
-<img width="6402" height="4080" alt="Figure1" src="https://github.com/user-attachments/assets/0387ba4c-6a83-4f34-8dea-cc3c7e1bf2d9" />
+![image](https://github.com/JunZeng1999/SuperEEM/edit/blob/Images/Figure1.jpg)
 
 #### The flowchart of this work.
 
